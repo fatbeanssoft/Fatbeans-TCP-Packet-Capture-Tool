@@ -59,7 +59,10 @@
 支持应用：支持32位和64位进程、模拟器、虚拟机  
 基础环境：dotNet 4.0  
 
-## 三、界面截图
+## 三、教学视频
+https://www.bilibili.com/video/BV1Q7UfYjE2r
+
+## 四、界面截图
 ![1 主界面](https://github.com/user-attachments/assets/9decb325-2601-4cc4-ac33-03ee6fb28852)
 
 ![2 数据流量](https://github.com/user-attachments/assets/2bd34c99-5f55-4192-b2f5-dd732e76dffe)
