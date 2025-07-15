@@ -59,8 +59,8 @@
 支持应用：支持32位和64位进程、模拟器、虚拟机  
 基础环境：dotNet 4.0  
 
-## 三、教学视频
-https://www.bilibili.com/video/BV1Q7UfYjE2r
+## 三、官网
+<b>https://www.fatbeans.cn</b>
 
 <b>QQ群：758530418</b>
 
